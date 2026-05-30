@@ -11,6 +11,7 @@ g = 96 + 90 + 92
 
 if a == "Home":
     st.title("Home page")
+    st.write("You can check the result in here")
 elif a == "Student":
     st.title("Student")
     b = st.sidebar.selectbox("Select student",["Arjun","Aarav","Aarya","Ananya","Aadi"])
