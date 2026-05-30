@@ -79,3 +79,5 @@ elif a == "Leaderboard":
     st.write(students[0][0],"-->", students[0][1])
     st.write(students[1][0],"-->", students[1][1])
     st.write(students[2][0],"-->", students[2][1])
+    st.write(students[3][0],"-->", students[3][1])
+    st.write(students[4][0],"-->", students[4][1])
